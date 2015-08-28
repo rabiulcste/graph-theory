@@ -58,7 +58,13 @@ int main()
     cin>>n>>m;
 
     for(int i = 0; i < m; i++) {
-        cin>>e[i].u>>e[i].v>>e[i].w;
+        int u, v, w;
+        cin>>u>>v>>w;
+        Edge data;
+        data.u = u;
+        data.v = v;
+        data.w = w;
+        e.push_back(data);
     }
 
     int res = krushkal(n);
