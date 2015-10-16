@@ -1,8 +1,8 @@
 #List of Graph Algorithms
 
-*Articulation Point
+Articulation Point
 
-*BFS (2D)
+BFS (2D)
 
 BFS using color
 
@@ -58,4 +58,4 @@ Topsort in DAG
 
 Union-Find (Disjoint sets data structure)
 
-##My Specail thanks to famous Programming Blog writer Shafayet Vai and Zubayer Vai.
+###My Special thanks to famous Programming Blog writer Shafayet Vai and Zubayer Vai.
