@@ -20,7 +20,7 @@ DFS
 
 Dijkstra 2D
 
-Dijkstra easy.cpp
+Dijkstra easy
 
 Dijkstra's Algorithm
 
