@@ -1,8 +1,8 @@
 #List of Graph Algorithms
 
-Articulation Point
+*Articulation Point
 
-BFS (2D)
+*BFS (2D)
 
 BFS using color
 
