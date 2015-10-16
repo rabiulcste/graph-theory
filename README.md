@@ -1,44 +1,31 @@
-List of Graph Algorithms 
-
-
-BFS (2D).cpp	
-
-BFS using color.cpp	
-
-BFS.cpp	
-
-Bellman Ford 
-
-DFS using matrix.cpp	
-
-DFS.cpp	
-
+#List of Graph Algorithms
+Articulation Point
+BFS (2D)
+BFS using color
+BFS
+Bellman Ford Algorithm
+Bellman Ford easy
+Cut Vertex
+DFS using matrix
+DFS
+Dijkstra 2D
 Dijkstra easy.cpp
-
-bellman ford algorithm.cpp	
-
-dijkstra's algorithm.cpp	
-
-eulerian for directed graph.cpp	
-
-eulerian for undirected graph.cpp	
-
-floyd warshall algorithm.cpp 
-
-max bipartite matching.cpp	
-
-max flow edmonds-karp algorithm.cpp	
-
-min vertex cover.cpp	
-
-mst krushkal algorithm.cpp
-
-mst prims algorithm.cpp	
-
-stable marriage probelm.cpp	
-
-strongly connected components (query).cpp	
-
-strongly connected components.cpp 
-
-union-find (disjoint sets data structure).cpp
+Dijkstra's Algorithm
+Eulerian for Directed Graph
+Eulerian for Undirected Graph
+Floyd Warshall algorithm
+IsBipartite
+MST (2nd Best) Krushkal Algo
+Max Bipartite Matching
+Max Flow Edmonds-Karp Algorithm
+Min Vertex Cover
+Mst Krushkal Algorithm
+Mst Prims Algorithm
+Stable Marriage Probelm
+Strongly Connected Components (query)
+Strongly Connected Components
+Topsort easy full-code
+Topsort easy
+Topsort in DAG
+Union-Find (Disjoint sets data structure)
+My Specail thanks to famous Programming Blog writer Shafayet Vai and Zubayer Vai.
