@@ -1,18 +1,18 @@
 #List of Graph Algorithms
-Articulation Point
-BFS (2D)
-BFS using color
-BFS
-Bellman Ford Algorithm
-Bellman Ford easy
-Cut Vertex
-DFS using matrix
-DFS
-Dijkstra 2D
-Dijkstra easy.cpp
-Dijkstra's Algorithm
-Eulerian for Directed Graph
-Eulerian for Undirected Graph
+_Articulation Point
+_BFS (2D)
+_BFS using color
+_BFS
+_Bellman Ford Algorithm
+_Bellman Ford easy
+_Cut Vertex
+_DFS using matrix
+_DFS
+_Dijkstra 2D
+_Dijkstra easy.cpp
+_Dijkstra's Algorithm
+_Eulerian for Directed Graph
+_Eulerian for Undirected Graph
 Floyd Warshall algorithm
 IsBipartite
 MST (2nd Best) Krushkal Algo
