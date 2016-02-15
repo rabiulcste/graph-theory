@@ -1,5 +1,6 @@
 #include <bits//stdc++.h>
 using namespace std;
+
 // MAXN = maximum points in the graph
 #define MAXN 1000
 vector<int> G[MAXN];
