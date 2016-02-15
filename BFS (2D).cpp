@@ -1,4 +1,3 @@
-3. BFS (2D).cpp
 #define mx 1002
 
 int fx[4] = {1, -1, 0, 0};
