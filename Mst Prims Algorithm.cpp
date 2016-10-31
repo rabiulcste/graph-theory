@@ -43,8 +43,8 @@ int mstPrims(int src, int n)
             src = T.v;
             p = T.w;
         }
+        sum += p;
     }
-    sum += p;
     return sum;
 }
 
