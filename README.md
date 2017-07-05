@@ -32,6 +32,6 @@
 
 #### My Special thanks to Shafayet Vai and Zubayer Vai.
 
-Autor - Md. Rabiul Awal
-E-mail - awalrabiul6@gmail.com
-Studying B.Sc in CSTE at NSTU
+ Autor - Md. Rabiul Awal
+ E-mail - awalrabiul6@gmail.com
+ Studying B.Sc in CSTE at NSTU
