@@ -4,6 +4,7 @@
 Graph theory is a very important topic for competitive programmers. For mastering problem solving skill, one need to learn a couple of graph theory algorithms, most of them are classical. Giant companies like google, facebook or others, where searching is needed, they need to conduct with graph theory. Here, I just wrote code of different popular graph theory algorithms. If you want to know theoretical details or pseudo-code you may love to visit [Shafayet Vai's Blog](http://www.shafaetsplanet.com/planetcoding/) .You should/must read CLRS book [Introduction to Algorithm](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) for brushing up detailed knowledge on algorithms.
 
 *Language: C++*
+
 *Books Followd: Introduction to Algorithm by CLRS*
 
 ### List of Algorithms
