@@ -1,5 +1,6 @@
-# List of Graph Algorithms
-
+# Implementation of Graph Algorithms
+### Language C++
+### List of Algorithms
 - Articulation Point
 - BFS (2D)
 - BFS using color
