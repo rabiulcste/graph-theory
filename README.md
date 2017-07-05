@@ -1,5 +1,5 @@
 # Implementation of Graph Algorithms
-### Language C++
+**Language C++**
 ### List of Algorithms
 - Articulation Point
 - BFS (2D)
